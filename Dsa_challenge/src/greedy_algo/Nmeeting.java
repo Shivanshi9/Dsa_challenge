@@ -43,8 +43,6 @@ public class Nmeeting
 		return count;
 	}
 	
-	
-	
 	public static void main(String[] args)
 	{
 		int[] start = {0,3,1,5,5,8};
