@@ -62,7 +62,7 @@ public class ThreeSum
 	{
 		int[] arr = {-1,0,1,2,-1,-4};
 		int target = 0;
-		System.out.println(threesum(arr, target));
+		//System.out.println(threesum(arr, target));
 	}
 
 }
