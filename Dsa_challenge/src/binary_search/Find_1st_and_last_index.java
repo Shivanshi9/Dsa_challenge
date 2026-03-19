@@ -88,5 +88,6 @@ public class Find_1st_and_last_index
 		{
 			System.out.print(val + " ");
 		}
+	
 	}
 }
