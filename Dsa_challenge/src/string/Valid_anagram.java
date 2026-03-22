@@ -1,10 +1,9 @@
 package string;
 
-import java.util.Iterator;
-
 public class Valid_anagram 
 {
 
+	//frequency counter approach
 	public static boolean anagram(String s, String t)
 	{
 		int[] freq = new int[26];
